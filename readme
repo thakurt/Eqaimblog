@@ -1,0 +1,16 @@
+How to run in your system.
+I have divide it into two parts.
+one is frontEnd and another is backend.
+
+In order to run it you have to run the server differently but at the same time.
+
+1. For backend you have to write the command like
+   cd backEnd
+   npm install
+   node app.js
+
+1. For frontend first enter
+   cd frontEnd,
+   cd eqaim
+   npm install
+   Npm start
